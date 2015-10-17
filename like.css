@@ -1,0 +1,4 @@
+.post-like{text-align:center;padding:10px 20px}
+.post-like a{ background-color:#428bca;color: #FFFFFF;font-size: 13px;padding: 10px 20px;text-decoration: none;outline:none}
+.post-like a.done, .post-like a:hover{background-color:#D12854;color:#fff;border:0px solid #428bac;}    
+.post-like a.done{cursor:not-allowed}
